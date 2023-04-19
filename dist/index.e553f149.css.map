@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["styles/commons.css"],"sourcesContent":[".test {\r\n  width: 24px;\r\n  height: 24px;\r\n  border: 2px solid;\r\n  background-color: brown;\r\n}\r\n"],"names":[],"version":3,"file":"index.e553f149.css.map","sourceRoot":"/__parcel_source_root/"}
